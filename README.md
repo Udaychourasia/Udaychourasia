@@ -34,16 +34,13 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udaychourasia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Udaychourasia&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Udaychourasia&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Udaychourasia&theme=tokyonight&hide_border=true" />
 </p>
----
 
 ## 🧠 Currently Exploring
 

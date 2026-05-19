@@ -7,7 +7,7 @@
 <h3 align="center">🚀 MERN Stack Developer | AI Explorer | CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Building+Real+World+Projects;AI+%2B+Web+Explorer;Learning+In+Public;Code.+Create.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Building+Real+World+Projects;AI+%2B+Web+Explorer;Learning+In+Public;Code.+Create.+Repeat." />
 </p>
 
 ---
@@ -36,9 +36,15 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Udaychourasia&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Udaychourasia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Udaychourasia&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Udaychourasia&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaychourasia&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -80,18 +86,3 @@ https://github.com/Udaychourasia/AI-resume-builder
 ---
 
 <h3 align="center">⚡ Turning Ideas Into Real-World Code ⚡</h3>
-
-<!--
-**Udaychourasia/Udaychourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
